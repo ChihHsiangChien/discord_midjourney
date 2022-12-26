@@ -109,7 +109,7 @@ def chat(chanel_list,authorization_list):
 
 if __name__ == "__main__":
     chanel_list = ["989739763957391370"]
-    authorization_list = ["MTA1MjU3NTI2NDc4MzIxNjY4MQ.Gl3Z8K.ndJKKWPxhlHk0hxwqmwg69KjZiikIrqZ8Zj5t4"]
+    authorization_list = ["authorization_list"]
     chat(chanel_list,authorization_list)    
 
     '''
